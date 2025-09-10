@@ -2,39 +2,39 @@
 const teamMembers = [
 //
   {
-    name: "Marco Bianchi",
+    name: "Riccardo Scamarcio",
     role: "Designer",
-    email: "marcobianchi@team.com",
+    email: "Scamarci1979@team.com",
     img: "img/male1.png"
   },
   {
-    name: "Laura Rossi",
+    name: "Amy Adam",
     role: "Front-end Developer",
-    email: "laurarossi@team.com",
+    email: "Amy_Adams@team.com",
     img: "img/female1.png"
   },
   {
-    name: "Giorgio Verdi",
+    name: "Ragnar Lothbrok",
     role: "Back-end Developer",
-    email: "giorgioverdi@team.com",
+    email: "Rag.Loth766@team.com",
     img: "img/male2.png"
   },
   {
-    name: "Marta Ipsum",
+    name: "Anne Hathaway",
     role: "SEO Specialist",
-    email: "martarossi@team.com",
+    email: "EvilGirl@team.com",
     img: "img/female2.png"
   },
   {
-    name: "Roberto Lorem",
+    name: "Timothée Chalamet",
     role: "SEO Specialist",
-    email: "robertolorem@team.com",
+    email: "Timothee_Charmy@team.com",
     img: "img/male3.png"
   },
   {
-    name: "Daniela Amet",
+    name: "Nico",
     role: "Analyst",
-    email: "danielaamet@team.com",
+    email: "Pataganiuzzi@team.com",
     img: "img/female3.png"
   }
 ];

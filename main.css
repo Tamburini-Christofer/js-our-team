@@ -36,7 +36,6 @@ img{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 
 /**Regole singole Card*/
@@ -45,11 +44,9 @@ img{
 
     background-color: black;
     color: white;
-  
     margin: 20px;
     padding: 20px;
-
-    width: 300px;
+    width: 350px;
 
 }
 .testoCard{
