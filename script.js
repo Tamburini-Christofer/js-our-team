@@ -1,4 +1,6 @@
+//Questa variabile contiene un Array di oggetti
 const teamMembers = [
+//
   {
     name: "Marco Bianchi",
     role: "Designer",
