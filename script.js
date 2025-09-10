@@ -38,3 +38,27 @@ const teamMembers = [
     img: "img/female3.png"
   }
 ];
+
+//Selezioniamo il contenitore dove andranno inserite le card 
+const contenitoreCardTeam = document.getElementById("contenitoreCard");
+
+//Creiamo una variabile che conterrà la Card di ogni membro del team
+let cardTeam = "";
+
+//Creiamo un ciclo forEach per fare pratica con il metodo
+teamMembers.forEach(persona =>  {
+    cardTeam += `
+    <div class="card">
+        <div class="immagineProfilo">
+            <img src=${persona.img}>
+        </div>
+
+        <div class="testoCard">
+            <h4>${persona.nome}</h4>
+            <div>${persona.ruolo}</div>
+            <div>${persona.email}</div>
+        </div>
+    </div>`
+});
+
+contenitoreCardTeam.innerHTML = cardTeam;

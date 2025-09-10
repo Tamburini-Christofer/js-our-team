@@ -4,9 +4,27 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: #E53170;
+}
+
 .contenitoreGenerale {
+    display: flex;
+
     background-color: bisque;
-    width: 80wv;
-    height: 80hv;
+    width: 60wv;
+    height: 60hv;
     margin: 10px auto;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+}
+.testoCard
+
+img{
+    max-width: 90px;
 }
