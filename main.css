@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenitoreGenerale {
+    background-color: bisque;
+    width: 80wv;
+    height: 80hv;
+    margin: 10px auto;
+}
