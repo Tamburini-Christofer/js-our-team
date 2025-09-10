@@ -54,8 +54,8 @@ teamMembers.forEach(persona =>  {
         </div>
 
         <div class="testoCard">
-            <h4>${persona.nome}</h4>
-            <div>${persona.ruolo}</div>
+            <h4>${persona.name}</h4>
+            <div>${persona.role}</div>
             <div>${persona.email}</div>
         </div>
     </div>`
