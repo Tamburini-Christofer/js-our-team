@@ -33,7 +33,7 @@ const teamMembers = [
   },
   {
     name: "Nico",
-    role: "Analyst",
+    role: "SEO dialect",
     email: "Pataganiuzzi@team.com",
     img: "img/female3.png"
   }
